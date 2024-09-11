@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Irgi</h1>
 <h3 align="center">A passionate frontend developer from Malang, Indonesia</h3>
 
-- 🌱 I’m currently learning **godot, nest js, and electron js**
+- 🌱 I’m currently learning **full stack web development**
 
 - 💬 Ask me about **react and next js**
 
