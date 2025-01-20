@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dimas Irgi</h1>
-<h3 align="center">A passionate frontend developer from Malang, Indonesia</h3>
+<h1>Hi there! 👋</h1>
+I'm a passionate Front-End Developer from Malang, Indonesia, who loves building beautiful and functional user interfaces. My expertise lies in working with React.js and Next.js, crafting web experiences that are fast, responsive, and user-friendly.
 
-- 🌱 I’m currently learning **remix**
+🎮 On the side, I'm diving into the world of game development with Godot Engine, learning how to bring interactive and engaging game ideas to life.
 
-- 💬 Ask me about **react**
+💡 I'm always exploring new technologies and improving my skills to stay ahead in this ever-evolving tech landscape.
 
-- 📫 How to reach me **dimasirgibusiness@gmail.com**
+📫 Feel free to reach out to me at dimasirgiansyah@outlook.co.id. Let's connect and create something awesome together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
