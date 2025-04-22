@@ -1,11 +1,9 @@
 <h1>Hi there! 👋</h1>
-I'm a passionate Front-End Developer from Malang, Indonesia, who loves building beautiful and functional user interfaces. My expertise lies in working with React.js and Next.js, crafting web experiences that are fast, responsive, and user-friendly.
+I'm a front-end developer based in Malang, Indonesia, with a strong focus on building clean, responsive, and user-friendly interfaces. I work mainly with React.js and Next.js to create fast and seamless web experiences.
 
-🎮 On the side, I'm diving into the world of game development with Godot Engine, learning how to bring interactive and engaging game ideas to life.
+I'm always curious about new tools and technologies, and I enjoy improving my skills to keep up with the ever-evolving world of web development.
 
-💡 I'm always exploring new technologies and improving my skills to stay ahead in this ever-evolving tech landscape.
-
-📫 Feel free to reach out to me at dimasirgiansyah@outlook.co.id. Let's connect and create something awesome together!
+If you have an idea or want to collaborate on something, feel free to reach out at dimasirgiansyah@outlook.co.id — I'm always open to connecting and creating something meaningful together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
